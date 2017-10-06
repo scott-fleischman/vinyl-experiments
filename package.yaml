@@ -1,0 +1,10 @@
+name: vinyl-experiments
+version: 0.1.0.0
+dependencies:
+  - base
+  - vinyl
+executables:
+  vinyl-experiments:
+    source-dirs: src
+    main: Main.hs
+    ghc-options: -Wall
